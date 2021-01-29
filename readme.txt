@@ -10,4 +10,4 @@ git merge <name> 合并分支
 Git checkout <name> 切换分支-master update
 git branch -d <name> 删除分支-new update
 git branch -D <name> 强制删除分支-
-dev
+dev2
